@@ -1,4 +1,6 @@
 /** @type {import('next').NextConfig} */
+
+// dinu maurya
 //const nextConfig = {};
 
 //export default nextConfig;
